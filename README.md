@@ -1,5 +1,5 @@
 # A walk into the future ![Godot 3.5](https://img.shields.io/badge/godot-v3.5-%23478cbf)
-![Screenshot of A walk into the future](https://imgur.com/a/6FlXFTY.jpg)
+![Screenshot of A walk into the future](https://imgur.com/a/6FlXFTY.jpg](https://favico.windowsubuntu.repl.co/fileidk.png)
 
 Game files for the game [A walk into the future](https://a-walk-into-the-future.vercel.app)
 
