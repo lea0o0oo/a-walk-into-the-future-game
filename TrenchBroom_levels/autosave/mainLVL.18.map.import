@@ -1,0 +1,13 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+path="res://.import/mainLVL.18.map-874ca297c1d67c457ca4ffa96894b387.tres"
+
+[deps]
+
+source_file="res://TrenchBroom_levels/autosave/mainLVL.18.map"
+dest_files=[ "res://.import/mainLVL.18.map-874ca297c1d67c457ca4ffa96894b387.tres" ]
+
+[params]
+

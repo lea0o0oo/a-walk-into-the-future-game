@@ -1,0 +1,32 @@
+[gd_resource type="Skin" load_steps=3 format=2]
+
+[sub_resource type="VisualScriptFunction" id=1]
+resource_name = "aa"
+
+[sub_resource type="VisualScript" id=2]
+data = {
+"base_type": "Skin",
+"functions": [ {
+"data_connections": [  ],
+"function_id": 0,
+"name": "aa",
+"nodes": [ 0, Vector2( 340, 260 ), SubResource( 1 ) ],
+"scroll": Vector2( -50, -100 ),
+"sequence_connections": [  ]
+}, {
+"data_connections": [  ],
+"function_id": -1,
+"name": "f_312843592",
+"nodes": [  ],
+"scroll": Vector2( 0, 0 ),
+"sequence_connections": [  ]
+} ],
+"is_tool_script": false,
+"signals": [  ],
+"variables": [  ],
+"vs_unify": true
+}
+
+[resource]
+resource_local_to_scene = true
+script = SubResource( 2 )

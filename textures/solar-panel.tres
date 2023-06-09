@@ -1,0 +1,14 @@
+[gd_resource type="SpatialMaterial" load_steps=5 format=2]
+
+[ext_resource path="res://materials/solar-panel/others_0013_metallic_1k.jpg" type="Texture" id=1]
+[ext_resource path="res://materials/solar-panel/others_0013_normal_directx_1k.png" type="Texture" id=2]
+[ext_resource path="res://materials/solar-panel/others_0013_roughness_1k.jpg" type="Texture" id=3]
+[ext_resource path="res://textures/solar-panel.jpg" type="Texture" id=4]
+
+[resource]
+albedo_texture = ExtResource( 4 )
+metallic_texture = ExtResource( 1 )
+roughness_texture = ExtResource( 3 )
+normal_enabled = true
+normal_scale = 1.0
+normal_texture = ExtResource( 2 )

@@ -1,0 +1,22 @@
+Renderer info: NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2 version 4.6.0 NVIDIA 531.29 from NVIDIA Corporation
+Depth buffer bits: 24
+Multisampling enabled
+Adding file system path C:\Users\Leo\Documents\TrenchBroom\defaults\assets
+Adding file system path C:\Users\Leo\Documents\TrenchBroom\defaults\assets
+Adding file system path C:\Users\Leo\Documents\Godot\proj-enea\.
+Loading document from C:\Users\Leo\Documents\Godot\proj-enea\TrenchBroom_levels\mainLVL.map
+Unquoted float default value 0 (line 31, column 37)
+Unquoted float default value 1 (line 35, column 22)
+Unquoted float default value 1 (line 36, column 22)
+Unquoted float default value 1 (line 61, column 23)
+Unquoted float default value 360 (line 67, column 37)
+Unquoted float default value 1 (line 71, column 22)
+Unquoted float default value 0.8 (line 77, column 23)
+Unquoted float default value 0 (line 78, column 36)
+Unquoted float default value 0 (line 79, column 31)
+Unquoted float default value 0 (line 80, column 38)
+Unquoted float default value 8 (line 81, column 23)
+Unquoted float default value 0 (line 82, column 38)
+Loaded entity definition file Qodot.fgd
+Loaded texture collection 'textures' in 307ms
+Loaded C:\Users\Leo\Documents\Godot\proj-enea\TrenchBroom_levels\mainLVL.map in 413ms
