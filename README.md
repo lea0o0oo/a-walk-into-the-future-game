@@ -1,18 +1,7 @@
-# First Person Starter ![Godot 3.5](https://img.shields.io/badge/godot-v3.5-%23478cbf)
-![Screenshot of FirstPersonStarter Template](https://i.imgur.com/gFDpPlj.png)
+# A walk into the future ![Godot 3.5](https://img.shields.io/badge/godot-v3.5-%23478cbf)
+![Screenshot of A walk into the future]([https://i.imgur.com/gFDpPlj.png](https://imgur.com/a/6FlXFTY))
 
-FPS template for Godot to give starter content for a new or already existing project!
-
-#### Includes:
-- 3D Character Controller
-  - Smooth Movement (Acceleration and Deceleration)
-  - Smooth Camera Rotation
-  - Handles Slopes
-  - Optional Sprinting
-  - Air Control
-  - Highly Modular
-  - Easily Adjustable from the Inspector
-- Example 3D Scene
+Game files for the game [A walk into the future](https://a-walk-into-the-future.vercel.app)
 
 #### Project Controls:
 - Move with `W` `A` `S` `D` or `↑` `←` `↓` `→`
@@ -22,6 +11,4 @@ FPS template for Godot to give starter content for a new or already existing pro
 - *If you haven't imported the whole project, you should add them manually!*
 
 #### Credits:
-- Grid Texture/s from [KenneyNL](https://www.kenney.nl/assets/prototype-textures)
-- To create this project I watched [Jeremy Bullock's Godot First Person Controller Series](https://www.youtube.com/watch?v=Etpq-d5af6M&list=PLTZoMpB5Z4aD-rCpluXsQjkGYgUGUZNIV)
-- Thanks to the awesome Godot community for being helpful to anyone with problems, for making amazing tutorials, for writing the documentation and being supportive.
+- [HUGE thanks to First Person starter project by Whimfoome](https://github.com/Whimfoome/godot-FirstPersonStarter/tree/gd-3.x)
