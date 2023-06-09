@@ -10,6 +10,6 @@ Game files for the game [A walk into the future](https://a-walk-into-the-future.
 - Close Game with `Esc`
 
 #### Credits:
-- [HUGE thanks to First Person starter project by Whimfoome](https://github.com/Whimfoome/godot-FirstPersonStarter/tree/gd-3.x)
+- HUGE thanks to [First Person starter](https://github.com/Whimfoome/godot-FirstPersonStarter/tree/gd-3.x) project by [Whimfoome](https://github.com/Whimfoome)
 - A lot of assets from [AmbientCG](https://ambientcg.com) and [TextureCan](https://www.texturecan.com/)
 - 1 asset from by [RawPixel](https://www.freepik.com/free-photo/close-up-white-marble-textured-wall_18667719.htm#query=ceramic%20texture&position=4&from_view=keyword&track=ais)
